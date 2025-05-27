@@ -9,26 +9,51 @@ O enunciado do trabalho pode ser encontrado aqui:
 
 ## Dados do Aluno
 
-- **Nome completo:** [Preencher aqui]
-- **Matrícula:** [Preencher aqui]
-- **Curso:** [Preencher aqui]
-- **Turma:** [Preencher aqui]
+- **Nome completo:** [Evelyn Thayná de Almeida Soares]
+- **Matrícula:** [241025757]
+- **Curso:** [engenharias]
+- **Turma:** [Turma 02]
 
 ---
 
 ## Instruções para Compilação e Execução
 
 1. **Compilação:**  
-   [Descrever aqui como compilar o projeto. Exemplo: `javac Main.java` ou o script usado]
+javac -d bin src/sistema/Main.java
 
 2. **Execução:**  
-   [Descrever aqui como executar o projeto. Exemplo: `java Main` ou o script usado]
+java -cp bin sistema.Main
 
 3. **Estrutura de Pastas:**  
-   [Descrever aqui as principais pastas do projeto]
+   [SistemaAcademicoFCTE/
+├── src/
+│   ├── sistema/
+│   │   ├── Aluno.java
+│   │   ├── AlunoEspecial.java
+│   │   ├── AlunoRegular.java
+│   │   ├── Avaliacao.java
+│   │   ├── Disciplina.java
+│   │   ├── Main.java
+│   │   ├── Professor.java
+│   │   ├── Turma.java
+│   │   ├── TurmaPresencial.java
+│   │   └── TurmaRemota.java
+│   ├── sistema.enums/
+│   │   ├── SituacaoAluno.java
+│   │   └── TipoTurma.java
+│   └── sistema.utils/
+│       ├── ArquivoUtil.java
+│       └── RelatorioAcademico.java
+├── module-info.java
+├── alunos.csv
+├── disciplinas.csv
+├── notas.csv
+├── professores.csv
+├── relatorio_1.txt
+└── turmas.csv]
 
 3. **Versão do JAVA utilizada:**  
-   [Descrever aqui como versão do JAVA utilizada no projeto. Sugestão: `java 21`]
+   java 21
 
 ---
 
@@ -41,36 +66,39 @@ O enunciado do trabalho pode ser encontrado aqui:
 ## Prints da Execução
 
 1. Menu Principal:  
-   ![Inserir Print 1](caminho/do/print1.png)
+   ![![image](https://github.com/user-attachments/assets/887305e8-aa69-4256-9101-5de3f0b427cf)
+](caminho/do/print1.pn)
 
 2. Cadastro de Aluno:  
-   ![Inserir Print 2](caminho/do/print2.png)
+   ![![image](https://github.com/user-attachments/assets/1c5eb12e-9b48-4f34-b9e7-9a4b3ad19204)
+](caminho/do/print2.png)
 
 3. Relatório de Frequência/Notas:  
-   ![Inserir Print 3](caminho/do/print3.png)
+   ![![image](https://github.com/user-attachments/assets/d4480032-db06-466a-944a-98ea21c26343)
+](caminho/do/print3.png)
 
 ---
 
 ## Principais Funcionalidades Implementadas
 
 - [ ] Cadastro, listagem, matrícula e trancamento de alunos (Normais e Especiais)
-- [ ] Cadastro de disciplinas e criação de turmas (presenciais e remotas)
-- [ ] Matrícula de alunos em turmas, respeitando vagas e pré-requisitos
-- [ ] Lançamento de notas e controle de presença
-- [ ] Cálculo de média final e verificação de aprovação/reprovação
-- [ ] Relatórios de desempenho acadêmico por aluno, turma e disciplina
-- [ ] Persistência de dados em arquivos (.txt ou .csv)
+- [*] Cadastro de disciplinas e criação de turmas (presenciais e remotas)
+- [*] Matrícula de alunos em turmas, respeitando vagas e pré-requisitos
+- [*] Lançamento de notas e controle de presença
+- [*] Cálculo de média final e verificação de aprovação/reprovação
+- [*] Relatórios de desempenho acadêmico por aluno, turma e disciplina
+- [*] Persistência de dados em arquivos (.txt ou .csv)
 - [ ] Tratamento de duplicidade de matrículas
-- [ ] Uso de herança, polimorfismo e encapsulamento
+- [*] Uso de herança, polimorfismo e encapsulamento
 
 ---
 
 ## Observações (Extras ou Dificuldades)
 
-- [Espaço para o aluno comentar qualquer funcionalidade extra que implementou, dificuldades enfrentadas, ou considerações importantes.]
+- [O tempo foi curto devido ao estudo de outras matérias, o que dificultou a dedicação ao projeto.]
 
 ---
 
 ## Contato
 
-- [Opcional: E-mail pessoal do aluno.]
+- [evelyntha6@gmail.com]
