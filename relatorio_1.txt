@@ -1,0 +1,20 @@
+Relatório de desempenho do aluno
+-------------------------------
+Nome: 1
+Matrícula: 1
+Curso: 1
+
+Turmas matriculadas:
+ - 1
+
+Notas:
+Avaliação 1: 1.0
+Avaliação 2: 1.0
+
+Média final: 1,00
+
+Presenças:
+Aula 1: Presente
+
+Frequência: 0,00%
+Status final: Reprovado
