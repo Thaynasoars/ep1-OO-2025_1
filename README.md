@@ -66,18 +66,14 @@ java -cp bin sistema.Main
 ## Prints da Execução
 
 1. Menu Principal:  
-   ![![image](https://github.com/user-attachments/assets/887305e8-aa69-4256-9101-5de3f0b427cf)
-](caminho/do/print1.pn)
+   ![Captura de tela 2025-05-26 231127](https://github.com/user-attachments/assets/90d2d287-5af1-45d3-8dc9-754ff67b0bb5)
 
 2. Cadastro de Aluno:  
-   ![![image](https://github.com/user-attachments/assets/1c5eb12e-9b48-4f34-b9e7-9a4b3ad19204)
-](caminho/do/print2.png)
+ ![Captura de tela 2025-05-26 231410](https://github.com/user-attachments/assets/d0636b76-53e3-4693-a940-41fe2849f100)
 
 3. Relatório de Frequência/Notas:  
-   ![![image](https://github.com/user-attachments/assets/d4480032-db06-466a-944a-98ea21c26343)
-](caminho/do/print3.png)
+![Captura de tela 2025-05-26 232118](https://github.com/user-attachments/assets/5c937f83-f1fb-4926-88ea-4fb5411b0e11)
 
----
 
 ## Principais Funcionalidades Implementadas
 
@@ -95,7 +91,7 @@ java -cp bin sistema.Main
 
 ## Observações (Extras ou Dificuldades)
 
-- [O tempo foi curto devido ao estudo de outras matérias, o que dificultou a dedicação ao projeto.]
+- O tempo foi curto devido ao estudo de outras matérias, o que dificultou a dedicação ao projeto.
 
 ---
 
