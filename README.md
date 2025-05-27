@@ -9,10 +9,10 @@ O enunciado do trabalho pode ser encontrado aqui:
 
 ## Dados do Aluno
 
-- **Nome completo:** [Evelyn Thayná de Almeida Soares]
-- **Matrícula:** [241025757]
-- **Curso:** [engenharias]
-- **Turma:** [Turma 02]
+- **Nome completo:** Evelyn Thayná de Almeida Soares
+- **Matrícula:** 241025757
+- **Curso:** engenharias
+- **Turma:** Turma 02
 
 ---
 
@@ -83,15 +83,17 @@ java -cp bin sistema.Main
 - [*] Lançamento de notas e controle de presença
 - [*] Cálculo de média final e verificação de aprovação/reprovação
 - [*] Relatórios de desempenho acadêmico por aluno, turma e disciplina
-- [*] Persistência de dados em arquivos (.txt ou .csv)
+- [ ] Persistência de dados em arquivos (.txt ou .csv)
 - [ ] Tratamento de duplicidade de matrículas
-- [*] Uso de herança, polimorfismo e encapsulamento
+- [ ] Uso de herança, polimorfismo e encapsulamento
 
 ---
 
 ## Observações (Extras ou Dificuldades)
 
-- O tempo foi curto devido ao estudo de outras matérias, o que dificultou a dedicação ao projeto.
+- Infelizmente, não consegui me dedicar ao projeto como gostaria, pois tive que dividir meu tempo com o estudo de outras matérias igualmente exigentes. Durante o desenvolvimento, senti uma enorme dificuldade, muitas vezes me sentindo perdida,experiência frustrante em vários momentos, e apesar de ter tentado, não consegui avançar tanto quanto gostaria.
+
+
 
 ---
 
